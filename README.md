@@ -1,5 +1,9 @@
 # 🚀 HIAS-KCF Optical Tracker (高精度光电追踪系统)
-
+<div align="center">
+  <img src="demo.gif" width="700px">
+  <br>
+  <b>核心演示：基于卡尔曼滤波的动态锁定与惯性预测 (KCF-Inertial Prediction)</b>
+</div>
 ## 📌 项目概述
 结合深度学习（YOLOv11）与运动估计（Kalman Filter）的工业级视觉遥测系统。
 
@@ -16,3 +20,4 @@
 
 ## 👨‍💻 作者
 李冠儒 | 中国计量大学
+
