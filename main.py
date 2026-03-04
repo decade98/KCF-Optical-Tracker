@@ -10,7 +10,7 @@ from collections import deque
 from ultralytics import YOLO
 
 from config import *
-from core.kalman_filter import TargetTrackerKF
+from kalman_filter import TargetTrackerKF
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
@@ -113,3 +113,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
