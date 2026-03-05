@@ -1,4 +1,4 @@
-# 🚀 HIAS-KCF Optical Tracker (高精度光电追踪系统)
+# 🚀 KCF Optical Tracker (高精度光电追踪系统)
 <div align="center">
   <img src="demo.gif" width="700px">
   <br>
@@ -20,4 +20,5 @@
 
 ## 👨‍💻 作者
 李冠儒 | 中国计量大学
+
 
